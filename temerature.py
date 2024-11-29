@@ -39,7 +39,7 @@ while True:
 
     retry=input("Do U want to convert more temperature again (yes/no):: ").strip().lower();
     if retry!="no":
-        print("Exiting.....tata,bye-bye.")
+        print("Exiting.....tata,bye-bye....")
         break
 
 
