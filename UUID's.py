@@ -1,4 +1,4 @@
-import random
+hfghfhimport random
 
 # Original string
 str_ = "hello"
