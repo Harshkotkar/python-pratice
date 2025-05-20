@@ -1,4 +1,4 @@
-gdfgdfdf# create  random string from existing string
+# create  random string from existing string
 # check the two strings are anagrams or not
 # str1=input("enter str1")
 # str2=input("enter str2")
